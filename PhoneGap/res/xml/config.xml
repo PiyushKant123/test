@@ -52,7 +52,13 @@
     <plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
 
     <plugin name="ChildBrowser" value="com.example.phonegap2.plugins.childBrowser"/>
-    <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
+   
+
+<feature name="InAppBrowser">
+    <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+</feature>
+
+
 
 </plugins>
 </cordova>
