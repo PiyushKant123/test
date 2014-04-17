@@ -59,6 +59,7 @@
 </feature>
 
 </plugins>
+<gap:platform name="android" />
 
 
 </cordova>
