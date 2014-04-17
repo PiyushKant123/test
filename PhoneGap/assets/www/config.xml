@@ -60,7 +60,9 @@
 
 </plugins>
 
-
+<platform>
+<gap:platform name="android" />
+</platform>
 
 </cordova>
-<gap:platform name="android" />
+
