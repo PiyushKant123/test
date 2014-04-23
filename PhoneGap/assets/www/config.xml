@@ -53,11 +53,11 @@
 
     <plugin name="ChildBrowser" value="com.example.phonegap2.plugins.childBrowser"/>
    
-
+<!--
 <feature name="InAppBrowser">
     <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
 </feature>
-
+-->
 </plugins>
 
 
